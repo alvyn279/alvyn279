@@ -1,6 +1,8 @@
 ## Hi. 👋 
 ### I'm **Alvyn** and I'm pretty hyped about this new feature.
 
+- i work for aws btw
+
 - 🎓 Bachelor's of Software Enginering - Concordia University (2020)
 
 - 💭 "_A Leetcode a day keeps unemployment away._"
