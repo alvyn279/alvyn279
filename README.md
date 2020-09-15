@@ -1,12 +1,21 @@
-## Hi. 👋 
-### I'm **Alvyn** and I'm pretty hyped about this new feature.
+## Hi, I'm Alvyn. 👋 
 
 - 🎓 Bachelor's of Software Enginering - Concordia University (2020)
-
 - 💭 "_A Leetcode a day keeps unemployment away._"
-
 - 🔗 Usually, I tell people to visit me on [my website](https://alvynle.me)
 
 🎾 🏒 🇨🇦 ⛳️ 
 
-[![Alvyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvyn279&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+
+### Some stats:
+
+<a href="https://github.com/alvyn279">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvyn279&count_private=true&show_icons=true&theme=vue" />
+</a>
