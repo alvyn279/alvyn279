@@ -2,7 +2,7 @@
 
 - 🎓  Bachelor's of Software Engineering - Concordia University (2020)
 - 💭  "_A Leetcode a day keeps unemployment away_"
-- 🔗  Usually, I tell people to visit me on [my website](https://alvynle.me)
+- 🌏  Usually I tell people to visit me on [my website](https://alvynle.me)
 - 🌳  Open-source contributor
 
 🎾 🏒 🇨🇦 ⛳️ 
