@@ -18,5 +18,5 @@
 ### Some stats:
 
 <a href="https://github.com/alvyn279">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvyn279&count_private=true&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvyn279&count_private=true&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
 </a>
